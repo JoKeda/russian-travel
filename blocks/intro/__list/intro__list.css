@@ -1,0 +1,10 @@
+.intro__list {
+    align-self: flex-start;
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;
+    list-style-type: none;
+    padding: 0;
+}
