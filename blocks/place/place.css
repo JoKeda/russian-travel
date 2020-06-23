@@ -1,7 +1,7 @@
-@import url(./__part-one/place__part-one.css);
+@import url(./__part-first/place__part-first.css);
 @import url(./__title/place__title.css);
 @import url(./__image/place__image.css);
-@import url(./__part-two/place__part-two.css);
+@import url(./__part-second/place__part-second.css);
 @import url(./__website/place__website.css);
 @import url(./__website/_bot/place__website_bot.css);
 @import url(./__website/_baikal/place__website_baikal.css);

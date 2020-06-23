@@ -1,4 +1,4 @@
-.place__part-two {
+.place__part-second {
     display: flex;
     flex-direction: column;
     padding-left: 40px;
@@ -7,20 +7,20 @@
 }
 
 @media screen and (max-width: 1279px) {
-    .place__part-two {
+    .place__part-second {
         padding-left: 32px;
     }
     }
 
 @media screen and (max-width: 1023px) {
-    .place__part-two {
+    .place__part-second {
         padding-left: 28px;
         padding-top: 0;
     }
     }
 
 @media screen and (max-width: 767px) {
-    .place__part-two {
+    .place__part-second {
         padding: 0 0 0 16px;
     }
     }
