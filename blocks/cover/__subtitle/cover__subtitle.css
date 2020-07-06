@@ -2,10 +2,11 @@
     font-size: 18px;
     line-height: 22px;
     text-align: center;
-    padding-top: 32px;
     width: 28.125%;
-    margin: auto;
-  }
+    padding-top: 32px;
+    position: relative;
+    z-index: 3;
+}  
 
 @media screen and (max-width: 1279px) {
     .cover__subtitle {
