@@ -10,22 +10,21 @@
     margin: auto;
     margin-top: 92px;
     overflow: hidden;
-    
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .cover {
         height: 640px;
     }
     }
 
-@media screen and (max-width: 768) {
+@media screen and (max-width: 1023px) {
     .cover {
         height: 480px;
     }
     }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .cover {
         max-height: 200px;
         margin-top: 64px;

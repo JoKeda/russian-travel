@@ -6,6 +6,7 @@
     text-align: center;
     color: #ffffff;
     margin: 0;
+    padding-top: 20px;
     position: relative;
     z-index: 2;
 }
@@ -27,5 +28,6 @@
         width: 75%;
         font-size: 32px;
         line-height: 35px;
+        padding-top: 20px;
     }
     }
